@@ -1,0 +1,23 @@
+{
+  "name": "counter-app",
+  "homepage": "https://Sandeep-003.github.io/react-learning/counter",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "echo 'Deploy from root' && echo 'Built to: build/counter'"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
