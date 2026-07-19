@@ -1,0 +1,58 @@
+<!DOCTYPE html>  <!-- This tells the browser that this is an HTML5 document -->
+<html lang="en">
+
+<head>
+    <!-- Head section: Contains metadata and settings for the page -->
+    
+    <!-- Character encoding: Tells browser to use UTF-8 characters (supports all languages) -->
+    <meta charset="UTF-8">
+    
+    <!-- Viewport settings: Makes the page responsive on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Page title: Shows in browser tab and search results -->
+    <title>React Learning - Counter App</title>
+    
+    <!-- CSS Styling: Basic styles for the page -->
+    <style>
+        /* Reset default browser styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        /* Body styling: Creates a nice gradient background and centers content */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #b3a92b 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- 
+        IMPORTANT: This is the ROOT ELEMENT where React will render everything
+        
+        React Flow:
+        1. React's ReactDOM.render() finds this div with id="root"
+        2. React replaces its empty content with your components
+        3. All your React components will be rendered INSIDE this div
+        4. Any state changes will update the DOM inside this div
+        
+        This div starts empty, and React fills it with your app!
+    -->
+    <div id="root"></div>
+    
+    <!-- 
+        NOTE: You DON'T add any other content here
+        All content (buttons, text, forms, etc.) should be created in your React components
+        and will be injected here dynamically by React
+    -->
+</body>
+
+</html>
