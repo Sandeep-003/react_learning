@@ -27,8 +27,8 @@ projectFolders.forEach(({ name, route }) => {
     console.log(`\n📦 Building ${name}...`);
     
     try {
-      // Build project
-      execSync('npm run build', { cwd: projectDir, stdio: 'inherit' });
+      // Build project using npx to find local react-scripts
+      execSync('npx react-scripts build', { cwd: projectDir, stdio: 'inherit' });
       
       // Copy build folder to main build directory
       const projectBuild = path.join(projectDir, 'build');
