@@ -1,6 +1,6 @@
 {
   "name": "todo-app",
-  "homepage": "https://sandeep-003.github.io/react_learning/todo",
+  "homepage": "/react_learning/todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

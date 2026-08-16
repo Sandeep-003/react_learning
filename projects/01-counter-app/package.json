@@ -1,6 +1,6 @@
 {
   "name": "counter-app",
-  "homepage": "https://Sandeep-003.github.io/react-learning/counter",
+  "homepage": "/react_learning/counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

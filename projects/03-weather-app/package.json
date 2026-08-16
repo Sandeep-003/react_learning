@@ -1,6 +1,6 @@
 {
   "name": "weather-app",
-  "homepage": "https://sandeep-003.github.io/react_learning/weather",
+  "homepage": "/react_learning/weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "movie-search",
-  "homepage": "https://sandeep-003.github.io/react_learning/movie-search",
+  "homepage": "/react_learning/movie-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
