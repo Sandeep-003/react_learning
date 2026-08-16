@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react_learning/weather/static/js/main.5ffa9b2b.js",
+    "index.html": "/react_learning/weather/index.html",
+    "main.5ffa9b2b.js.map": "/react_learning/weather/static/js/main.5ffa9b2b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ffa9b2b.js"
+  ]
+}
