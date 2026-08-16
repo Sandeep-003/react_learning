@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-learning/counter/static/css/main.5274f550.css",
-    "main.js": "/react-learning/counter/static/js/main.ea832900.js",
-    "static/js/453.6a1e99fa.chunk.js": "/react-learning/counter/static/js/453.6a1e99fa.chunk.js",
-    "static/media/logo.svg": "/react-learning/counter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-learning/counter/index.html",
-    "main.5274f550.css.map": "/react-learning/counter/static/css/main.5274f550.css.map",
-    "main.ea832900.js.map": "/react-learning/counter/static/js/main.ea832900.js.map",
-    "453.6a1e99fa.chunk.js.map": "/react-learning/counter/static/js/453.6a1e99fa.chunk.js.map"
+    "main.css": "/react_learning/counter/static/css/main.652e05ae.css",
+    "main.js": "/react_learning/counter/static/js/main.820314dd.js",
+    "static/js/453.6a1e99fa.chunk.js": "/react_learning/counter/static/js/453.6a1e99fa.chunk.js",
+    "static/media/logo.svg": "/react_learning/counter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_learning/counter/index.html",
+    "main.652e05ae.css.map": "/react_learning/counter/static/css/main.652e05ae.css.map",
+    "main.820314dd.js.map": "/react_learning/counter/static/js/main.820314dd.js.map",
+    "453.6a1e99fa.chunk.js.map": "/react_learning/counter/static/js/453.6a1e99fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5274f550.css",
-    "static/js/main.ea832900.js"
+    "static/css/main.652e05ae.css",
+    "static/js/main.820314dd.js"
   ]
 }
